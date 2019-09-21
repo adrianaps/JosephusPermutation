@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="127e0af8-3e9f-4b32-835f-20a4a3b176cd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JosephusPermutation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JosephusPermutation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/josephusPermutation/JosephusPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/josephusPermutation/JosephusPermutation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/josephusPermutation/JosephusPermutation_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/josephusPermutation/JosephusPermutation_.java" afterDir="false" />
     </list>
@@ -31,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/josephusPermutation/JosephusPermutation_.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="663">
+              <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/josephusPermutation/JosephusPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="102">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -185,7 +182,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JosephusPermutation_.given_array_with_1_lenght_returns_same_array" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JosephusPermutation_.given_array_every_0_returns_same_array" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JosephusPermutation" />
       <extension name="coverage">
         <pattern>
@@ -195,7 +192,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="josephusPermutation" />
       <option name="MAIN_CLASS_NAME" value="josephusPermutation.JosephusPermutation_" />
-      <option name="METHOD_NAME" value="given_array_with_1_lenght_returns_same_array" />
+      <option name="METHOD_NAME" value="given_array_every_0_returns_same_array" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -252,10 +249,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.JosephusPermutation_" />
+        <item itemvalue="JUnit.JosephusPermutation_.given_array_every_0_returns_same_array" />
         <item itemvalue="JUnit.JosephusPermutation_.given_array_with_3_lenght_every_2_returns_reordenated_array" />
         <item itemvalue="JUnit.JosephusPermutation_.given_array_with_3_lenght_every_3_returns_reordenated_array" />
         <item itemvalue="JUnit.JosephusPermutation_.given_array_with_2_lenght_every_3_returns_same_array" />
-        <item itemvalue="JUnit.JosephusPermutation_.given_array_with_1_lenght_returns_same_array" />
       </list>
     </recent_temporary>
   </component>
@@ -298,38 +295,52 @@
       <option name="project" value="LOCAL" />
       <updated>1569065160373</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Third iteration">
+      <created>1569066313527</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569066313527</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fourth Iteration">
+      <created>1569066545449</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569066545449</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 22m 27s.xml">
-      <configuration name="JosephusPermutation_" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 23m 22s.xml">
-      <configuration name="JosephusPermutation_" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 24m 46s.xml">
-      <configuration name="JosephusPermutation_" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 25m 32s.xml">
-      <configuration name="JosephusPermutation_" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 26m 51s.xml">
-      <configuration name="JosephusPermutation_" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 29m 51s.xml">
-      <configuration name="JosephusPermutation_" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 31m 44s.xml">
-      <configuration name="JosephusPermutation_" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 34m 07s.xml">
-      <configuration name="JosephusPermutation_" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 35m 00s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
     <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 35m 45s.xml">
+      <configuration name="JosephusPermutation_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 41m 52s.xml">
+      <configuration name="JosephusPermutation_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 44m 37s.xml">
+      <configuration name="JosephusPermutation_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JosephusPermutation__given_array_every_0_returns_same_array - 2019.09.21 at 12h 47m 35s.xml">
+      <configuration name="JosephusPermutation_.given_array_every_0_returns_same_array" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JosephusPermutation__given_array_every_0_returns_same_array - 2019.09.21 at 12h 48m 17s.xml">
+      <configuration name="JosephusPermutation_.given_array_every_0_returns_same_array" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 48m 27s.xml">
+      <configuration name="JosephusPermutation_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 50m 51s.xml">
+      <configuration name="JosephusPermutation_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 54m 53s.xml">
+      <configuration name="JosephusPermutation_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 58m 28s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -368,9 +379,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First iteration" />
     <MESSAGE value="Second iteration" />
-    <MESSAGE value="Third iteration" />
     <MESSAGE value="Correction os second iteration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correction os second iteration" />
+    <MESSAGE value="Third iteration" />
+    <MESSAGE value="Fourth Iteration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fourth Iteration" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -380,20 +392,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/josephusPermutation/JosephusPermutation_.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/josephusPermutation/JosephusPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/josephusPermutation/JosephusPermutation.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/josephusPermutation/JosephusPermutation_.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="663">
+          <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
