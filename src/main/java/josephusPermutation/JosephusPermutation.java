@@ -2,7 +2,7 @@ package josephusPermutation;
 
 public class JosephusPermutation {
     public static int[] josephus(int[] soldiers, int killed) {
-        if(soldiers.length <= 2 && killed % 2 != 0){
+        if(soldiers.length <= 2 && killed % 2 != 0 || killed == 0){
             return soldiers;
         }else if (soldiers.length <= 2){
             int aux = soldiers[0];
