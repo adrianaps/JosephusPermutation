@@ -24,7 +24,4 @@ public class JosephusPermutation_ {
     public void given_array_with_3_lenght_every_3_returns_reordenated_array() {
         assertThat(JosephusPermutation.josephus(new int[] {1,2,3}, 3)).isEqualTo(new int[] {3,1,2});
     }
-
-
-
 }
