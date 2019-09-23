@@ -19,20 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/josephusPermutation/JosephusPermutation_.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
+            <state relative-caret-position="-46">
+              <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/josephusPermutation/JosephusPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -91,7 +82,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,12 +132,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Fizzbuzz" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -309,38 +301,52 @@
       <option name="project" value="LOCAL" />
       <updated>1569066545449</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fifth iteration">
+      <created>1569067271963</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569067271963</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Sixth iteration">
+      <created>1569069226421</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569069226421</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 35m 00s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.23 at 16h 28m 57s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 35m 45s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.23 at 16h 29m 53s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 41m 52s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.23 at 16h 36m 15s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 44m 37s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.23 at 16h 36m 25s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JosephusPermutation__given_array_every_0_returns_same_array - 2019.09.21 at 12h 47m 35s.xml">
-      <configuration name="JosephusPermutation_.given_array_every_0_returns_same_array" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JosephusPermutation__given_array_every_0_returns_same_array - 2019.09.21 at 12h 48m 17s.xml">
-      <configuration name="JosephusPermutation_.given_array_every_0_returns_same_array" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 48m 27s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.23 at 16h 37m 07s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 50m 51s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.23 at 16h 37m 32s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 54m 53s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.23 at 16h 38m 15s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.21 at 12h 58m 28s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.23 at 16h 38m 43s.xml">
+      <configuration name="JosephusPermutation_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JosephusPermutation_ - 2019.09.23 at 16h 39m 05s.xml">
+      <configuration name="JosephusPermutation_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JosephusPermutation_ - 2019.09.23 at 16h 41m 24s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -348,7 +354,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -358,7 +364,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -382,7 +388,9 @@
     <MESSAGE value="Correction os second iteration" />
     <MESSAGE value="Third iteration" />
     <MESSAGE value="Fourth Iteration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fourth Iteration" />
+    <MESSAGE value="Fifth iteration" />
+    <MESSAGE value="Sixth iteration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sixth iteration" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -394,15 +402,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/josephusPermutation/JosephusPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/josephusPermutation/JosephusPermutation_.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="64" selection-start-line="39" selection-start-column="64" selection-end-line="39" selection-end-column="64" />
+        <state relative-caret-position="-46">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
