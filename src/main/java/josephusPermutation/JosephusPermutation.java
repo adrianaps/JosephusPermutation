@@ -7,9 +7,12 @@ public class JosephusPermutation {
 
         if(soldiers.length <= 3) return permutateKilledSoldier(soldiers, killed-1, 0);
 
+        int lastKilled=-1;
         for(int i=0; i<soldiers.length-1; i++){
-            soldiers = permutateKilledSoldier(soldiers, i+1+((soldiers.length-i)%killed), i);
+            soldiers = permutateKilledSoldier(soldiers, (killed%(soldiers.length-i))+lastKilled, i);
+            lastKilled = (killed%(soldiers.length-i))+lastKilled;
         }
+        
         return soldiers;
     }
 
@@ -19,6 +22,5 @@ public class JosephusPermutation {
         soldiers[liveSoldier]=deadSoldier;
         return soldiers;
     }
-
 
 }
