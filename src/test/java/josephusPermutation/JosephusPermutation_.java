@@ -41,4 +41,9 @@ public class JosephusPermutation_ {
     public void given_array_with_4_lenght_every_2_returns_permutated_array() {
         assertThat(JosephusPermutation.josephus(new int[] {1,2,3,4}, 2)).isEqualTo(new int[] {2,4,3,1});
     }
+
+    @Test
+    public void given_array_with_2_lenght_every_5_returns_same_array() {
+        assertThat(JosephusPermutation.josephus(new int[] {1,2}, 5)).isEqualTo(new int[] {1,2});
+    }
 }
