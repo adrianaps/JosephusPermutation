@@ -9,10 +9,10 @@ public class JosephusPermutation {
 
         int lastKilled=-1;
         for(int i=0; i<soldiers.length-1; i++){
-            soldiers = permutateKilledSoldier(soldiers, (killed%(soldiers.length-i))+lastKilled, i);
-            lastKilled = (killed%(soldiers.length-i))+lastKilled;
+            if((killed%(soldiers.length-i))+lastKilled <i) lastKilled+=i;
+            soldiers = permutateKilledSoldier(soldiers,(killed%(soldiers.length-i))+lastKilled, i);
+            lastKilled = killed%(soldiers.length-i)+lastKilled;
         }
-        
         return soldiers;
     }
 
