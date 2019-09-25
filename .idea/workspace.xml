@@ -19,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/josephusPermutation/JosephusPermutation_.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="247">
+              <caret line="52" column="83" selection-start-line="52" selection-start-column="83" selection-end-line="52" selection-end-column="83" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,14 +31,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/josephusPermutation/JosephusPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="215">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
               <folding>
-                <element signature="e#127#128#0" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1140#1141#0" expanded="true" />
+                <element signature="e#1193#1194#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,7 +55,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="tests" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -141,6 +148,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569434174638" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../RomanNumbers" />
@@ -245,10 +253,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.JosephusPermutation_" />
-        <item itemvalue="JUnit.JosephusPermutation_.given_array_every_0_returns_same_array" />
-        <item itemvalue="JUnit.JosephusPermutation_.given_array_with_3_lenght_every_2_returns_reordenated_array" />
         <item itemvalue="JUnit.JosephusPermutation_.given_array_with_3_lenght_every_3_returns_reordenated_array" />
+        <item itemvalue="JUnit.JosephusPermutation_.given_array_with_3_lenght_every_2_returns_reordenated_array" />
         <item itemvalue="JUnit.JosephusPermutation_.given_array_with_2_lenght_every_3_returns_same_array" />
+        <item itemvalue="JUnit.JosephusPermutation_.given_array_every_0_returns_same_array" />
       </list>
     </recent_temporary>
   </component>
@@ -347,38 +355,45 @@
       <option name="project" value="LOCAL" />
       <updated>1569345281620</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Second iteration">
+      <created>1569433894497</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1569433894497</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JosephusPermutation_ - 2019.09.24 at 19h 19m 44s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.25 at 19h 38m 11s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.24 at 19h 21m 59s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.25 at 19h 40m 09s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.24 at 19h 22m 14s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.25 at 19h 40m 47s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.24 at 19h 22m 23s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.25 at 19h 41m 40s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.24 at 19h 22m 31s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.25 at 19h 42m 30s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.24 at 19h 22m 59s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.25 at 19h 43m 42s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.25 at 11h 26m 54s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.25 at 19h 44m 05s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.25 at 11h 28m 12s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.25 at 19h 44m 42s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.25 at 11h 30m 13s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.25 at 19h 45m 13s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.25 at 11h 30m 35s.xml">
+    <history-entry file="JosephusPermutation_ - 2019.09.25 at 19h 47m 25s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -386,17 +401,17 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28895614" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864498" visible="true" weight="0.28895614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.501355" side_tool="true" weight="0.10127932" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20130932" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29459903" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39770868" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -413,10 +428,77 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864498" visible="true" weight="0.28895614" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.501355" side_tool="true" weight="0.10127932" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29459903" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First iteration" />
-    <MESSAGE value="Second iteration" />
     <MESSAGE value="Correction os second iteration" />
     <MESSAGE value="Third iteration" />
     <MESSAGE value="Fourth Iteration" />
@@ -426,16 +508,17 @@
     <MESSAGE value="Eighth Iteration" />
     <MESSAGE value="Nineth iteration" />
     <MESSAGE value="Tenth iteration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tenth iteration" />
+    <MESSAGE value="Second iteration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second iteration" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="296" height="180" key="Git.Branch.Popup" />
+    <state width="290" height="174" key="Git.Branch.Popup/1366.768" />
+    <state width="296" height="180" key="Git.Branch.Popup/1920.1080" />
+    <state width="290" height="174" key="Git.Branch.Popup@1366.768" />
+    <state width="296" height="180" key="Git.Branch.Popup@1920.1080" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/Method.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -464,23 +547,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/josephusPermutation/JosephusPermutation.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding>
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="874">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/josephusPermutation/JosephusPermutation_.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="247">
+          <caret line="52" column="83" selection-start-line="52" selection-start-column="83" selection-end-line="52" selection-end-column="83" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/josephusPermutation/JosephusPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+            <element signature="e#1193#1194#0" expanded="true" />
           </folding>
         </state>
       </provider>
