@@ -32,7 +32,7 @@ public class JosephusPermutation {
     }
 
     private static boolean oneSoldierLeft(int deadSoldiers, int alreadyDead) {
-        return alreadyDead == deadSoldiers - 1;
+        return alreadyDead == deadSoldiers-1;
     }
 
     private static boolean areSoldiersStillAlive(int soldiersAlive, int deadSoldiers, int i, int pos) {
