@@ -22,7 +22,12 @@ public class JosephusPermutation_ {
     }
 
     @Test
-    public void given_array_with_2_length_and_2_killed_should_give_same_array() {
+    public void given_array_with_2_length_and_2_killed_should_give_permutated_array() {
         assertThat(josephus(new int[] {1, 2}, 2)).isEqualTo(new int[]{2, 1});
+    }
+
+    @Test
+    public void given_array_with_2_length_and_3_killed_should_give_same_array() {
+        assertThat(josephus(new int[] {1, 2}, 3)).isEqualTo(new int[]{1, 2});
     }
 }
