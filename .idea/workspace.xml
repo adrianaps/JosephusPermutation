@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="127e0af8-3e9f-4b32-835f-20a4a3b176cd" name="Default Changelist" comment="" />
+    <list default="true" id="127e0af8-3e9f-4b32-835f-20a4a3b176cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/josephusPermutation/JosephusPermutation_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/josephusPermutation/JosephusPermutation_.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/josephusPermutation/JosephusPermutation_.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-202">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="315">
+              <caret line="68" column="92" selection-start-line="68" selection-start-column="92" selection-end-line="68" selection-end-column="92" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,16 +30,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/josephusPermutation/JosephusPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="444">
+              <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1202#1203#0" expanded="true" />
-                <element signature="e#1256#1257#0" expanded="true" />
+                <element signature="e#1254#1255#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -65,8 +77,8 @@
         <option value="$PROJECT_DIR$/src/test/java/josephusPermutationTest/JosephusPermutationTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/josephusPermutation/JosephusPermutationTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/josephusPermutation/JosephusPermutation_.java" />
         <option value="$PROJECT_DIR$/src/main/java/josephusPermutation/JosephusPermutation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/josephusPermutation/JosephusPermutation_.java" />
       </list>
     </option>
   </component>
@@ -77,7 +89,13 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -89,6 +107,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,7 +145,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.JosephusPermutation_">
+  <component name="RunManager" selected="JUnit.JosephusPermutation_.given_array_with_5_length_and_even_killed_should_give_same_array">
     <configuration name="JosephusPermutation_" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JosephusPermutation" />
       <extension name="coverage">
@@ -165,22 +183,6 @@
       <option name="PACKAGE_NAME" value="josephusPermutation" />
       <option name="MAIN_CLASS_NAME" value="josephusPermutation.JosephusPermutation_" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JosephusPermutation_.given_array_every_0_returns_same_array" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JosephusPermutation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="josephusPermutation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="josephusPermutation" />
-      <option name="MAIN_CLASS_NAME" value="josephusPermutation.JosephusPermutation_" />
-      <option name="METHOD_NAME" value="given_array_every_0_returns_same_array" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -233,13 +235,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JosephusPermutation_.given_array_with_5_length_and_even_killed_should_give_same_array" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JosephusPermutation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="josephusPermutation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="josephusPermutation" />
+      <option name="MAIN_CLASS_NAME" value="josephusPermutation.JosephusPermutation_" />
+      <option name="METHOD_NAME" value="given_array_with_5_length_and_even_killed_should_give_same_array" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JosephusPermutation_.given_array_with_5_length_and_even_killed_should_give_same_array" />
         <item itemvalue="JUnit.JosephusPermutation_" />
         <item itemvalue="JUnit.JosephusPermutation_.given_array_with_3_lenght_every_3_returns_reordenated_array" />
         <item itemvalue="JUnit.JosephusPermutation_.given_array_with_3_lenght_every_2_returns_reordenated_array" />
         <item itemvalue="JUnit.JosephusPermutation_.given_array_with_2_lenght_every_3_returns_same_array" />
-        <item itemvalue="JUnit.JosephusPermutation_.given_array_every_0_returns_same_array" />
       </list>
     </recent_temporary>
   </component>
@@ -345,16 +363,17 @@
       <option name="project" value="LOCAL" />
       <updated>1569433894497</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Third iteration">
+      <created>1569438852822</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1569438852822</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JosephusPermutation_ - 2019.09.25 at 19h 38m 11s.xml">
-      <configuration name="JosephusPermutation_" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JosephusPermutation_ - 2019.09.25 at 19h 40m 09s.xml">
-      <configuration name="JosephusPermutation_" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="JosephusPermutation_ - 2019.09.25 at 19h 40m 47s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
@@ -379,12 +398,18 @@
     <history-entry file="JosephusPermutation_ - 2019.09.25 at 19h 47m 25s.xml">
       <configuration name="JosephusPermutation_" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="JosephusPermutation_ - 2019.09.28 at 12h 24m 55s.xml">
+      <configuration name="JosephusPermutation_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JosephusPermutation__given_array_with_5_length_and_even_killed_should_give_same_array - 2019.09.28 at 12h 28m 18s.xml">
+      <configuration name="JosephusPermutation_.given_array_with_5_length_and_even_killed_should_give_same_array" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864498" visible="true" weight="0.28895614" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864498" visible="true" weight="0.2934947" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -406,7 +431,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32980332" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -483,7 +508,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First iteration" />
     <MESSAGE value="Correction os second iteration" />
-    <MESSAGE value="Third iteration" />
     <MESSAGE value="Fourth Iteration" />
     <MESSAGE value="Fifth iteration" />
     <MESSAGE value="Sixth iteration" />
@@ -492,7 +516,8 @@
     <MESSAGE value="Nineth iteration" />
     <MESSAGE value="Tenth iteration" />
     <MESSAGE value="Second iteration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second iteration" />
+    <MESSAGE value="Third iteration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third iteration" />
   </component>
   <component name="WindowStateProjectService">
     <state width="296" height="180" key="Git.Branch.Popup" />
@@ -532,29 +557,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
+        <state relative-caret-position="646">
           <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/josephusPermutation/JosephusPermutation_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-202">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/josephusPermutation/JosephusPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="444">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1202#1203#0" expanded="true" />
-            <element signature="e#1256#1257#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/josephusPermutation/JosephusPermutation_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="68" column="92" selection-start-line="68" selection-start-column="92" selection-end-line="68" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
